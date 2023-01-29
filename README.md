@@ -7,8 +7,8 @@
 <h3 align="left">Check my projects:</h3>
 
 
-***42-...*** for `42 School` projects
+- ***42-...*** for `42 School` projects
 
-***AVL-...*** for my projects at `AVL` France
+- ***AVL-...*** for my projects at `AVL` France
 
-***ideas-...*** for my `own` projects
+- ***ideas-...*** for my `own` projects
